@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Aman-ankit IT - Software Training Institute <font></h1>
+<h1><font color='red'> Welcome to Aman-ankit-anurag IT - Software Training Institute <font></h1>
 
 <a href="www.ashokit.in">Click Here To See Ashok IT Training Schedules</a>
   
